@@ -8,10 +8,4 @@
 * [@__mez0__](https://twitter.com/__mez0__) for the idea 
 * [@mohabouje](https://github.com/mohabouje) for the [WinToast](https://github.com/mohabouje/WinToast) library
 
-# Demo Vid : https://gitlab.com/ORCA666/toasterloader/-/blob/main/demo/demo.mp4
-
-
-
-<h6 align="center"> <i>#                                   STAY TUNED FOR MORE</i>  </h6> 
-![120064592-a5c83480-c075-11eb-89c1-78732ecaf8d3](https://gitlab.com/ORCA666/kcthijack/-/raw/main/images/PP.png)
 
